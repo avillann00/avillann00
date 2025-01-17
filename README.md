@@ -5,6 +5,7 @@
 - 📫 How to reach me: avillann00@gmail.com
 - ⚡ Fun fact: I play basketball
 - 📝 School: I am a computer science major at the University of Central Florida
+- 📌 LinkedIn: www.linkedin.com/in/austin-villanueva-56abbb2b2
 
 <!---
 avillann00/avillann00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
